@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @emiliopex
 - 👀 I’m interested in valuation, macroeconomic forecasting, politics, social finance and green investing
 - 🌱 I’m currently learning Python, SQL and C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: david.bashualdo@rutgers.edu
